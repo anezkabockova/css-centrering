@@ -23,7 +23,6 @@ p {
 p {
     display: inline-block; reaguje na text-align: center nadřazeného prvku
 } */
-/*
 
 /* 2. obecně platné centrování blokových prvků */
 /* p {
@@ -59,7 +58,7 @@ p {
 } */
 
 /* 6. absolutně pozicovaný prvek známé šířky mimo flexbox; 200px je polovina šířky prvku */
-/* p {
+/*'' p {
     position: absolute;
     left: calc(50% - 200px);
 } */
